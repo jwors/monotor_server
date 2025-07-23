@@ -6,16 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/jwors/frontEnd_monitoring#readme",
+  "homepage": "https://github.com/jwors/monotor_server#readme",
   "bugs": {
-    "url": "https://github.com/jwors/frontEnd_monitoring/issues"
+    "url": "https://github.com/jwors/monotor_server/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwors/frontEnd_monitoring.git"
+    "url": "git+https://github.com/jwors/monotor_server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.6.5"
+  "packageManager": "pnpm@10.6.5",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
