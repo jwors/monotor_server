@@ -1,0 +1,21 @@
+{
+  "name": "monotor_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jwors/frontEnd_monitoring#readme",
+  "bugs": {
+    "url": "https://github.com/jwors/frontEnd_monitoring/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwors/frontEnd_monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.5"
+}
