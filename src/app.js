@@ -9,7 +9,7 @@ const app = express()
 
 
 // 连接数据库
-connectDB();
+// connectDB();
 
 // 中间件
 app.use(bodyParser.json());
